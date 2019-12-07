@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="@color/colorAccent"
+
         >
 
         <EditText
@@ -35,7 +35,6 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="@color/colorAccent"
         >
 
         <EditText
@@ -55,7 +54,6 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="@color/colorAccent"
         >
 
         <EditText
@@ -75,7 +73,6 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="@color/colorAccent"
         >
 
         <EditText
@@ -95,7 +92,6 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="@color/colorAccent"
         >
 
         <EditText
@@ -115,7 +111,6 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="@color/colorAccent"
         >
 
         <EditText
@@ -135,7 +130,6 @@
         android:layout_height="wrap_content"
         android:focusable="true"
         android:focusableInTouchMode="true"
-        android:textColorHint="@color/colorAccent"
         >
 
         <EditText
